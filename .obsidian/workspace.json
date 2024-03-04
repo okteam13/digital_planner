@@ -11,11 +11,9 @@
             "id": "74368d6fac82e34c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2024-03-04.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240304102619.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "Pasted image 20240304102619.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "Pasted image 20240304102619.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-04.md"
+                "file": "Pasted image 20240304102619.png"
               }
             }
           }
@@ -148,8 +146,9 @@
   },
   "active": "74368d6fac82e34c",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "Pasted image 20240304123418.png",
     "2024-03-04.md",
+    "무제 파일.canvas",
     "test"
   ]
 }
