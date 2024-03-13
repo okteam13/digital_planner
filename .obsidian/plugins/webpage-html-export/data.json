@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "digital_planner",
   "exportPreset": "documents",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\myStudy\\digital_planner\\ttttt",
+  "exportPath": "C:\\\\myStudy",
   "filesToExport": [
     []
   ]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0312/0312웹개발 이해.md",
+                "file": "software/1._PM의역할.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0312/0312웹개발 이해.md",
+                "file": "software/1._PM의역할.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0312/0312웹개발 이해.md",
+                "file": "software/1._PM의역할.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0312/0312웹개발 이해.md"
+                "file": "software/1._PM의역할.md"
               }
             }
           }
@@ -163,34 +163,51 @@
   },
   "active": "6931da8452707bf4",
   "lastOpenFiles": [
-    "0312/브라우저에서 웹 페이지를 PC에 저장하면 재대로 보이지 않는 이유.pdf",
-    "0312/CSS 구조와 필수예제 5개.pdf",
-    "0312/CSS란 무엇인가.pdf",
-    "0312/필수 HTML Tag 10개 예제.pdf",
-    "0312/HTML구조는.pdf",
-    "0312/HTML이란 무엇인가.pdf",
-    "프롬프트/0311 내용정리.md",
+    "software/0313_퍼포먼스리포트/구글.pdf",
+    "software/0313_퍼포먼스리포트/쿠팡.pdf",
+    "software/0313_퍼포먼스리포트/네이버.pdf",
+    "software/0313_퍼포먼스리포트/무제 파일.md",
+    "software/1._PM의역할.md",
+    "software/0313_퍼포먼스리포트",
+    "software/2.7_브랜치만들기_mvp_1.md",
+    "software/0._강의일정목표.md",
+    "software/5._개발자와_디자이너_협업툴.md",
+    "software/3._GITHUB_활용.md",
+    "ttttt/software/5._개발자와_디자이너_협업툴.html",
+    "ttttt/software/4._Obsidian과_markdown.html",
+    "ttttt/software/3._GITHUB_활용.html",
+    "ttttt/software/2.10_sourcetree_참고사항.html",
+    "ttttt/software/2.9_브랜치합치기_mvp_3.html",
+    "ttttt/software/2.8_브랜치만들기_mvp_2.html",
+    "ttttt/software/2.7_브랜치만들기_mvp_1.html",
+    "software/4._Obsidian과_markdown.md",
+    "software/2.10_sourcetree_참고사항.md",
+    "software/2.9_브랜치합치기_mvp_3.md",
+    "software/2.8_브랜치만들기_mvp_2.md",
+    "software/2.6_파일내용_변경해서_커밋하기 2.md",
+    "software/2.5_파일내용_변경해서_커밋하기 1.md",
+    "software/2.4_파일추가해서_커밋하기.md",
+    "software/2.3_localgit_최초_커밋하기.md",
+    "software/2.2_localgit_생성하기.md",
+    "software/2.1_sourcetree설치.md",
+    "software/2.0_초간단GIT.md",
+    "software/2._PM에게_필요한GIT.md",
     "0312/0312웹개발 이해.md",
-    "0312",
+    "프롬프트/0311 내용정리.md",
     "소프트웨어/0311 내용 정리.md",
     "Pasted image 20240311162029.png",
     "Pasted image 20240311161947.png",
     "Pasted image 20240311121139.png",
     "이순신 장군 전쟁기록.md",
     "Pasted image 20240311120616.png",
-    "무제 폴더",
-    "프롬프트",
-    "소프트웨어",
     "ChatGPT.md",
     "티처블머신_0305/이미지 구분.md",
     "Pasted image 20240305160510.png",
     "Pasted image 20240305160421.png",
     "Pasted image 20240305123921.png",
     "개발자와대화법/개발자와_대화법.md",
-    "티처블머신_0305",
     "Pasted image 20240304102619.png",
     "Pasted image 20240304123418.png",
-    "2024-03-04.md",
     "무제 파일.canvas"
   ]
 }

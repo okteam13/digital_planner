@@ -1,12 +1,28 @@
 {
   "vaultName": "digital_planner",
-  "lastExport": 1709536935635,
+  "lastExport": 1710228725277,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "software/0._강의일정목표.md",
+    "software/1._PM의역할.md",
+    "software/2._PM에게_필요한GIT.md",
+    "software/2.0_초간단GIT.md",
+    "software/2.1_sourcetree설치.md",
+    "software/2.2_localgit_생성하기.md",
+    "software/2.3_localgit_최초_커밋하기.md",
+    "software/2.4_파일추가해서_커밋하기.md",
+    "software/2.5_파일내용_변경해서_커밋하기 1.md",
+    "software/2.6_파일내용_변경해서_커밋하기 2.md",
+    "software/2.7_브랜치만들기_mvp_1.md",
+    "software/2.8_브랜치만들기_mvp_2.md",
+    "software/2.9_브랜치합치기_mvp_3.md",
+    "software/2.10_sourcetree_참고사항.md",
+    "software/3._GITHUB_활용.md",
+    "software/4._Obsidian과_markdown.md",
+    "software/5._개발자와_디자이너_협업툴.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -40,93 +56,189 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
+    "software/1._PM의역할.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 4393,
+      "exportedPath": "software/1._PM의역할.html",
+      "dependencies": []
+    },
     "software/0._강의일정목표.md": {
-      "modifiedTime": 1709536935635,
+      "modifiedTime": 1710228725277,
       "sourceSize": 2466,
       "exportedPath": "software/0._강의일정목표.html",
+      "dependencies": []
+    },
+    "software/2._PM에게_필요한GIT.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 5227,
+      "exportedPath": "software/2._PM에게_필요한GIT.html",
+      "dependencies": []
+    },
+    "software/2.0_초간단GIT.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 4714,
+      "exportedPath": "software/2.0_초간단GIT.html",
+      "dependencies": []
+    },
+    "software/2.1_sourcetree설치.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 580,
+      "exportedPath": "software/2.1_sourcetree설치.html",
+      "dependencies": []
+    },
+    "software/2.2_localgit_생성하기.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 985,
+      "exportedPath": "software/2.2_localgit_생성하기.html",
+      "dependencies": []
+    },
+    "software/2.3_localgit_최초_커밋하기.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 1678,
+      "exportedPath": "software/2.3_localgit_최초_커밋하기.html",
+      "dependencies": []
+    },
+    "software/2.4_파일추가해서_커밋하기.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 1109,
+      "exportedPath": "software/2.4_파일추가해서_커밋하기.html",
+      "dependencies": []
+    },
+    "software/2.5_파일내용_변경해서_커밋하기 1.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 1161,
+      "exportedPath": "software/2.5_파일내용_변경해서_커밋하기 1.html",
+      "dependencies": []
+    },
+    "software/2.6_파일내용_변경해서_커밋하기 2.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 1112,
+      "exportedPath": "software/2.6_파일내용_변경해서_커밋하기 2.html",
+      "dependencies": []
+    },
+    "software/2.7_브랜치만들기_mvp_1.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 1400,
+      "exportedPath": "software/2.7_브랜치만들기_mvp_1.html",
+      "dependencies": []
+    },
+    "software/2.8_브랜치만들기_mvp_2.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 869,
+      "exportedPath": "software/2.8_브랜치만들기_mvp_2.html",
+      "dependencies": []
+    },
+    "software/2.9_브랜치합치기_mvp_3.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 779,
+      "exportedPath": "software/2.9_브랜치합치기_mvp_3.html",
+      "dependencies": []
+    },
+    "software/2.10_sourcetree_참고사항.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 2829,
+      "exportedPath": "software/2.10_sourcetree_참고사항.html",
+      "dependencies": []
+    },
+    "software/3._GITHUB_활용.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 7881,
+      "exportedPath": "software/3._GITHUB_활용.html",
+      "dependencies": []
+    },
+    "software/4._Obsidian과_markdown.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 4900,
+      "exportedPath": "software/4._Obsidian과_markdown.html",
+      "dependencies": []
+    },
+    "software/5._개발자와_디자이너_협업툴.md": {
+      "modifiedTime": 1710228725277,
+      "sourceSize": 1155,
+      "exportedPath": "software/5._개발자와_디자이너_협업툴.html",
       "dependencies": []
     }
   }
