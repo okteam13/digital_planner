@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b0604ea1d1f223e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프롬프트/0311 내용정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6931da8452707bf4",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,11 +150,14 @@
   },
   "active": "6931da8452707bf4",
   "lastOpenFiles": [
+    "push_test.txt",
+    "새 텍스트 문서.txt",
+    "프롬프트/0311 내용정리.md",
+    "software/1._PM의역할.md",
     "software/0313_퍼포먼스리포트/구글.pdf",
     "software/0313_퍼포먼스리포트/쿠팡.pdf",
     "software/0313_퍼포먼스리포트/네이버.pdf",
     "software/0313_퍼포먼스리포트/무제 파일.md",
-    "software/1._PM의역할.md",
     "software/0313_퍼포먼스리포트",
     "software/2.7_브랜치만들기_mvp_1.md",
     "software/0._강의일정목표.md",
@@ -178,8 +168,6 @@
     "ttttt/software/3._GITHUB_활용.html",
     "ttttt/software/2.10_sourcetree_참고사항.html",
     "ttttt/software/2.9_브랜치합치기_mvp_3.html",
-    "ttttt/software/2.8_브랜치만들기_mvp_2.html",
-    "ttttt/software/2.7_브랜치만들기_mvp_1.html",
     "software/4._Obsidian과_markdown.md",
     "software/2.10_sourcetree_참고사항.md",
     "software/2.9_브랜치합치기_mvp_3.md",
@@ -193,7 +181,6 @@
     "software/2.0_초간단GIT.md",
     "software/2._PM에게_필요한GIT.md",
     "0312/0312웹개발 이해.md",
-    "프롬프트/0311 내용정리.md",
     "소프트웨어/0311 내용 정리.md",
     "Pasted image 20240311162029.png",
     "Pasted image 20240311161947.png",
